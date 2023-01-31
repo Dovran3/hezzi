@@ -42,4 +42,4 @@ DELETE http://localhost:3000/posts/{:id}
 
 > ***I'll add other things, when you'll say done.***
 
-![patient](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftosavealife.com%2Ffaith%2Finspiration%2F15-waiting-memes-that-even-the-most-patient-person-can-relate-to%2F&psig=AOvVaw27pPeTJK-qR-t9VedEva9Z&ust=1675275469655000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiem4W48vwCFQAAAAAdAAAAABAH)
+![patient](https://www.memesmonkey.com/images/memesmonkey/s_2a/2a0e698c17bba4ac458a43eb6ff3dc0d.jpeg)
